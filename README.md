@@ -1,2 +1,1 @@
-Please see screen shot above.
-![alt text](https://github.com/saucebyt/TwitVue/blob/master/screenschot.pdf)
+Twitter Clone built with Vue.js, Framework7 and ApacheCordova
